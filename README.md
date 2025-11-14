@@ -8,7 +8,7 @@ Proyecto: Hoja de vida (CV) modular creada con React + Vite.
 
 
 ## Imagen de navegador
-![alt text](image.png)
+
 <img width="950" height="511" alt="image" src="https://github.com/user-attachments/assets/7965638f-2dc1-4a84-88fc-15c26197c3ec" />
 
 
