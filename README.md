@@ -18,3 +18,5 @@ Proyecto: Hoja de vida (CV) modular creada con React + Vite.
    npm install
 2. Npm run dev
 3. copiar y pegar la url en el navegador
+
+![alt text](image.png)
