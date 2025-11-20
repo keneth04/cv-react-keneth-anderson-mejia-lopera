@@ -1,4 +1,4 @@
-import CabeceraCV from "./components/CabeceraCV.jsx";
+import CabeceraCV from "./components/CabeceraCv.jsx";
 import Perfil from "./components/Perfil.jsx";
 import Educacion from "./components/Educacion.jsx";
 import Experiencia from "./components/Experiencia.jsx";

@@ -1,11 +1,11 @@
 export default function CabeceraCV() {
     return (
         <header className="cv-header">
-        <h1>Keneth Anderson Mejia Lopera</h1>
+        <h1>Camilo Casas Loaiza</h1>
         <h2>Desarrollador Front-End Jr.</h2>
         <div className="contact-list">
-            <span> +57 300 000 0000</span>
-            <span> keneth.email@example.com</span>
+            <span> +57 300 532 6844</span>
+            <span> camilocasas.email@example.com</span>
             <span> Medellín, Colombia</span>
         </div>
         </header>
